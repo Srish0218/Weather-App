@@ -34,8 +34,6 @@ This is a simple weather application that displays the current weather informati
 
 ![Weather App](screenshots/weather_app.png)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute and make improvements!
